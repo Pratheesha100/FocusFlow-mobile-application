@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#91D2B4</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF7CA9</color>
+    <color name="pr1">#F8EFED</color>
+    <color name="ba1">#DAF4FF</color>
+    <color name="sec2">#D6E7E7</color>
+    <color name="White">#FFFFFF</color>
+    <color name="ac4">#1C4A5A</color>
+
+
+
+    <!--<color name="sec1">#B4E4D9</color>
+    <color name="sec3">#EAD9E6</color>
+    <color name="ex2">#FFC8D7</color>
+    <color name="ex1">#B9E3D8</color>
+    <color name="ex4">#FFC3B0</color>
+    <color name="ex5">#C0B7D1</color>
+    <color name="ba2">#B0D3E2</color>
+    <color name="te2">#E5E6E4</color>
+    <color name="ac2">#BCEAFF</color>
+    <color name="ac3">#1194AA</color>
+    <color name="ac5">#4489FF</color>
+-->
+    <!--
+
+    <color name="pr1">#DAF4FF</color>
+    <color name="sec1">#B0D3E2</color>
+    <color name="sec3">#EAFBF7</color>
+    <color name="ba1">#009CC6</color>
+    <color name="te1">#002C3E</color>
+    <color name="te2">#E5E6E4</color>
+    <color name="White">#FFFFFF</color>
+-->
+
+
+</resources>
+
