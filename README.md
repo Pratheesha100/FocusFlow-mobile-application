@@ -21,5 +21,5 @@ This project contains a mobile appilcation where users can set a task on a parti
 
 - **Frontend**: [XML]
 - **Backend**: [Kotlin]
-- **Database**: [Shared Prefernce]
+- **Database**: [Shared Preference]
 - **Other Tools**: [Figma]
